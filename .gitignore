@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Test / lint / type caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+coverage.xml
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# NOTE: htmlcov/ is intentionally NOT ignored —
+# the coverage report must be committed for the reviewer.
