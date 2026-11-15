@@ -24,12 +24,12 @@ build-backend = "poetry.core.masonry.api"
 # --- Formatters / linters ---
 
 [tool.black]
-line-length = 88
+line-length = 120
 target-version = ["py313"]
 
 [tool.isort]
 profile = "black"
-line_length = 88
+line_length = 120
 known_first_party = ["src"]
 
 [tool.mypy]
