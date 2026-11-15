@@ -21,6 +21,3 @@ coverage.xml
 .vscode/
 .DS_Store
 Thumbs.db
-
-# NOTE: htmlcov/ is intentionally NOT ignored —
-# the coverage report must be committed for the reviewer.
